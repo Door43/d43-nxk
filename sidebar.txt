@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nxk:home|Door43 (nxk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nxk|d43-nxk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nxk/archive/master.zip|d43-nxk.zip]]
+
+**Recent Changes**
+{{changes>ns = nxk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nxk|Ethnologue data]]
+
